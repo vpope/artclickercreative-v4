@@ -9,44 +9,49 @@
             <?php include "includes/navigation.php"; ?>
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-12">
-                        <div class=carousel>
-                            <ul class="slider">
-                                <li>
-                                    <img src="images/Cousel_New_1.jpg" class="active" />
-                                </li>
-                                <li>
-                                    <img src="images/Cousel_New_2.jpg" class="active" />
-                                </li>
-                                <li>
-                                    <img src="images/Cousel_New_3.jpg" calss="active" />
-                                </li>
-                                <li>
-                                    <img src="images/Cousel_New_4.jpg" calss="active" />
-                                <li>
-                                    <img src="images/Cousel_New_5.jpg" class="active" />
-                                </li>
-                                <li>
-                                    <img src="images/Cousel_New_6.jpg" class="active" />
-                                </li>
-                                <li>
-                                    <img src="images/Cousel_New_7.jpg" class="active" />
-                                </li>
-                            </ul>
+                    <div class="col-sm-4 image-item">
+                        <img src="images/Illustration.jpg" alt="" />
+                        <div class="image-hover">
+                            <div class="image-hover-inner">
+                                
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12 inner-img image-item">
+                                <img src="images/EditorialCartoon.jpg" alt="" />
+                                <div class="image-hover">
+                                    <div class="image-hover-inner">
+                                        
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-4 orange">
-
+                    <div class="col-sm-4 image-item">
+                        <img src="images/GraphicDesign.jpg" alt="" />
+                        <div class="image-hover">
+                            <div class="image-hover-inner">
+                                
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-sm-4 blue">
-
-                    </div>
-                    <div class="col-sm-4 red">
-
+                    <div class="col-sm-4 image-item">
+                        <img src="images/Storyboard.jpg" alt="" />
+                        <div class="image-hover">
+                            <div class="image-hover-inner">
+                                
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12 inner-img image-item">
+                                <img src="images/MotionGraphic_B.jpg" alt="" />
+                                <div class="image-hover">
+                                    <div class="image-hover-inner">
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

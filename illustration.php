@@ -1,27 +1,18 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <link href="style.css" rel="stylesheet" type="text/css" media="all">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
     </head>
     <body>
         <div class="wrapper">
-            <?php include "includes/logo.php"; ?>
-            <?php include "includes/picture-modal.php"; ?>
-            <div class="container">
-                <span class="storyboard">
-                    Custom Illustrations
-                </span>
-                <div class="pictures">
-
-                </div>
-            </div>
-            <div class="end">
-            </div>
-            <?php include "includes/footer.php"; ?>
+            <?php include "includes/navigation.php"; ?>
         </div>
-        
+        <script src="js/jquery-1.11.1.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/carousel.js"></script>
         <?php include "includes/js.php"; ?>
         <script type="text/javascript" src="js/ModalModel.js"></script>
         <script type="text/javascript" src="js/data-illustration.js"></script>
     </body>
-</html>
+</html>  

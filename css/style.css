@@ -1,18 +1,3 @@
-.orange {
-    background-color: orange;
-    height: 10px;
-}
-
-.red {
-    background-color: red;
-    height: 10px;
-}
-
-.blue {
-    background-color: blue;
-    height: 10px;
-}
-
 ul .nav ul a {
     text-decoration: none;
     display: inline;
@@ -40,6 +25,7 @@ ul .nav ul a {
 
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    margin: 0 auto;
 }
 
 .navbar-fixed-top .nav {
@@ -70,4 +56,23 @@ body {
 .navbar-default .navbar-nav>li>a {
     font-size: 15px;
     margin-top: 27px;
+}
+
+.wrapper {
+    margin-top: 30px;
+}
+
+img {
+    max-width: 100%
+}
+
+.inner-img img {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.page-scroll img {
+    margin-top: 10px;
 }
