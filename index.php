@@ -13,7 +13,7 @@
                         <img src="images/Illustration.jpg" alt="" />
                         <div class="image-hover">
                             <div class="image-hover-inner">
-                                
+
                             </div>
                         </div>
                         <div class="row">
@@ -21,7 +21,7 @@
                                 <img src="images/EditorialCartoon.jpg" alt="" />
                                 <div class="image-hover">
                                     <div class="image-hover-inner">
-                                        
+
                                     </div>
                                 </div>
                             </div>
@@ -31,7 +31,7 @@
                         <img src="images/GraphicDesign.jpg" alt="" />
                         <div class="image-hover">
                             <div class="image-hover-inner">
-                                
+
                             </div>
                         </div>
                     </div>
@@ -39,7 +39,7 @@
                         <img src="images/Storyboard.jpg" alt="" />
                         <div class="image-hover">
                             <div class="image-hover-inner">
-                                
+
                             </div>
                         </div>
                         <div class="row">
@@ -47,7 +47,7 @@
                                 <img src="images/MotionGraphic_B.jpg" alt="" />
                                 <div class="image-hover">
                                     <div class="image-hover-inner">
-                                        
+
                                     </div>
                                 </div>
                             </div>
@@ -55,6 +55,7 @@
                     </div>
                 </div>
             </div>
+            <?php include "includes/footer.php"; ?>
         </div>
         <script src="js/jquery-1.11.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>

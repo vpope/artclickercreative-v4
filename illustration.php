@@ -7,6 +7,7 @@
     <body>
         <div class="wrapper">
             <?php include "includes/navigation.php"; ?>
+            <?php include "includes/footer.php"; ?>
         </div>
         <script src="js/jquery-1.11.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>

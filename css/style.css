@@ -76,3 +76,32 @@ img {
 .page-scroll img {
     margin-top: 10px;
 }
+
+.footer {
+    margin-top: 25px;
+    background-color: #f8f8f8;
+    border: 1px solid transparent;
+    border-color: #e7e7e7;
+}
+
+.footer-links {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.footer-links:last-child {
+    padding-top: 5px;
+}
+
+.footer-links span {
+    display: inline-block;
+    border-left: 1px solid #000;
+    margin-left: 15px;
+    padding-left: 15px;
+}
+
+.footer-links span:first-child{
+    margin-left: 0px;
+    border-left: none;
+}
