@@ -58,10 +58,6 @@ body {
     margin-top: 27px;
 }
 
-.wrapper {
-    margin-top: 30px;
-}
-
 img {
     max-width: 100%
 }
@@ -105,3 +101,23 @@ img {
     margin-left: 0px;
     border-left: none;
 }
+
+@media (min-width: 768px) {
+    .wrapper {
+        margin-top: 110px;
+    }
+}
+
+@media (max-width: 768px) {
+    .logo-image {
+        margin-left: 10px;
+    }
+}
+
+@media (max-width: 520px) {
+    .logo-image {
+        width: 250px;
+
+    }
+}
+
