@@ -17,27 +17,59 @@
                                 <li data-target="#carousel-example-captions" data-slide-to="0"></li>
                                 <li data-target="#carousel-example-captions" data-slide-to="1"></li>
                                 <li data-target="#carousel-example-captions" data-slide-to="2"></li>
+                                <li data-target="#carousel-example-captions" data-slide-to="3"></li>
+                                <li data-target="#carousel-example-captions" data-slide-to="4"></li>
+                                <li data-target="#carousel-example-captions" data-slide-to="5"></li>
+                                <li data-target="#carousel-example-captions" data-slide-to="6"></li>
                             </ol>
                             <div class="carousel-inner" role="listbox">
                                 <div class="item active">
-                                    <img data-src="holder.js/900x500/auto/#777:#777" alt="900x500" src="http://placehold.it/1180x320" data-holder-rendered="true">
+                                    <img data-src="holder.js/900x500/auto/#777:#777" alt="900x500" src="images/cousel_new_1.jpg" data-holder-rendered="true">
                                     <div class="carousel-caption">
-                                        <h3>First slide label</h3>
-                                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                                        <h3></h3>
+                                        <p></p>
                                     </div>
                                 </div>
                                 <div class="item">
-                                    <img data-src="holder.js/900x500/auto/#666:#666" alt="900x500" src="http://placehold.it/1180x320" data-holder-rendered="true">
+                                    <img data-src="holder.js/900x500/auto/#666:#666" alt="900x500" src="images/cousel_new_2.jpg" data-holder-rendered="true">
                                     <div class="carousel-caption">
-                                        <h3>Second slide label</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                        <h3></h3>
+                                        <p></p>
                                     </div>
                                 </div>
                                 <div class="item">
-                                    <img data-src="holder.js/900x500/auto/#555:#5555" alt="900x500" src="http://placehold.it/1180x320" data-holder-rendered="true">
+                                    <img data-src="holder.js/900x500/auto/#555:#5555" alt="900x500" src="images/cousel_new_3.jpg" data-holder-rendered="true">
                                     <div class="carousel-caption">
-                                        <h3>Third slide label</h3>
-                                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                                        <h3></h3>
+                                        <p></p>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <img data-src="holder.js/900x500/auto/#666:#666" alt="900x500" src="images/cousel_new_4.jpg" data-holder-rendered="true">
+                                    <div class="carousel-caption">
+                                        <h3></h3>
+                                        <p></p>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <img data-src="holder.js/900x500/auto/#666:#666" alt="900x500" src="images/cousel_new_5.jpg" data-holder-rendered="true">
+                                    <div class="carousel-caption">
+                                        <h3></h3>
+                                        <p></p>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <img data-src="holder.js/900x500/auto/#666:#666" alt="900x500" src="images/cousel_new_6.jpg" data-holder-rendered="true">
+                                    <div class="carousel-caption">
+                                        <h3></h3>
+                                        <p></p>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <img data-src="holder.js/900x500/auto/#666:#666" alt="900x500" src="images/cousel_new_7.jpg" data-holder-rendered="true">
+                                    <div class="carousel-caption">
+                                        <h3></h3>
+                                        <p></p>
                                     </div>
                                 </div>
                             </div>

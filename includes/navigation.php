@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="page-scroll" href="index.php"><img class="logo-image" src="images/logo.png" /></a>
+            <a class="page-scroll" href="index.php"><img class="logo-image" src="images/logo-new.png" /></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -18,10 +18,10 @@
                     <a class="page-scroll" href="index.php"></a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="illustration.php">Custom Illustration</a>
+                    <a class="page-scroll" href="illustration.php"> Illustration</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="storyboard.php">Custom Storyboard</a>
+                    <a class="page-scroll" href="storyboard.php"> Storyboard</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#contact">Editorial Cartoon</a>
